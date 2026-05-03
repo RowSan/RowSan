@@ -16,7 +16,7 @@ for operational and sales use.
 ## Tech Stack
 
 React Native · TypeScript · Supabase (PostgreSQL)  
-Supabase Edge Functions · Python (ETL) · Next.js
+Supabase Edge Functions · Python (ETL) 
 
 ---
 
