@@ -1,4 +1,5 @@
 StoneCat — Warehouse Intelligence System
+
 Technical Business Analysis | System Design | Data Integration
 
 **Problem**
