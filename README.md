@@ -24,6 +24,7 @@ Supabase Edge Functions · Python (ETL) · Next.js
 
 StoneCat is a warehouse intelligence system designed to improve 
 inventory visibility and reduce manual dependency on ERP workflows.
+[Read the full 1-page StoneCat Case Study here](./docs/StoneCat-Case-Study.md)
 
 ### Core Capabilities
 
